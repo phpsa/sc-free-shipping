@@ -1,4 +1,4 @@
-# Statamic Blade Components
+# Statamic Siomple Commerce Free Shipping Module
 
 ![Statami v3](https://img.shields.io/badge/Statamic-3.0+-FF269E)
 ![Packagist](https://img.shields.io/packagist/v/phpsa/sc-free-shipping)
